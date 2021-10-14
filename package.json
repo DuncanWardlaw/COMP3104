@@ -1,0 +1,20 @@
+{
+  "name": "gbc-COMP3104",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Warning, no tests created."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DuncanWardlaw/COMP3104.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DuncanWardlaw/COMP3104/issues"
+  },
+  "homepage": "https://github.com/DuncanWardlaw/COMP3104#readme"
+}
